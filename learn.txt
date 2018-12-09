@@ -1,0 +1,3 @@
+Dev Club is a student group that tries to innovate and foster technical activities, and create a coding culture which is somewhat missing.
+ And we develop cool stuff that benefits everyone in the campus. We have worked on a wide range of projects with IIT students as a primary
+ target.
